@@ -1,0 +1,12 @@
+### Windows
+echo > criar arquivos 
+|ex: echo hello > hello.txt 
+cd+pasta > navegar nas pastas 
+cd .. > voltar
+dir > listar
+mkdir+nome > cria pasta com o nome
+cls > limpar a tela poluida
+tab > completa nomes ja existentes nas pastas
+seta pra cima > ver tudo que ja foi executado no terminal
+del+pasta > apagar arquivos da pasta
+rdmir+pasta > apagar pasta e todos os arquivos dela
