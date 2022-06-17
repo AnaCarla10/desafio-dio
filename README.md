@@ -1,2 +1,3 @@
-# desafio-dio
-Criando o primeiro repositório no GitHub
+# Projeto de desafio da dio
+## Criando repositório no GitHub
+
